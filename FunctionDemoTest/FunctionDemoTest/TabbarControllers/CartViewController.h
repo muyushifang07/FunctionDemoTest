@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CartViewController.h
 //  FunctionDemoTest
 //
 //  Created by lizhenzhen on 2020/3/5.
@@ -8,9 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
-- (IBAction)homeBtnClick:(id)sender;
+@interface CartViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END

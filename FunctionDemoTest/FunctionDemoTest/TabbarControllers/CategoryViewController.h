@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  CategoryViewController.h
 //  FunctionDemoTest
 //
 //  Created by lizhenzhen on 2020/3/5.
@@ -8,9 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+NS_ASSUME_NONNULL_BEGIN
 
-@property (strong, nonatomic) UIWindow * window;
+@interface CategoryViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
