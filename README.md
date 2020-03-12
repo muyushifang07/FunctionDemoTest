@@ -1,2 +1,3 @@
-# FunctionDemoTest
-一些功能测试demo的集合
+# 编译主工程说明
+## clone 下来，之后，pod install 成功后再编译
+
